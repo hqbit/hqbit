@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joffre
+I'm hqbit, testing this git repo
 <!--
 **wodemi/wodemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
