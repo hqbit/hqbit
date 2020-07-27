@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm hqbit, testing this git repo
+I'm hqbit, testing this git repo from the wt
 <!--
-**wodemi/wodemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hqbit/hqbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
